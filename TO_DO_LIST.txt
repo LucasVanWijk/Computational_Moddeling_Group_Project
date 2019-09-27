@@ -1,0 +1,21 @@
+TO DO
+    hoofddataset:
+    - 
+    
+    externe dataset:
+    - Bepaal een grenswaarde voor wijngaarden die zo weinig produceren door weersomstandigheden (voor kou/warm/onweer/ect) wat resulteert in
+      een verwaarloosbare oogst als data voor ons model.
+    - Bepaal welke maanden in het jaar de gewassen groeien en portugal, haal vervolgens de maanden uit de database waar er geen druivengewas .
+    - Legenda opzoeken bij columns (bron van site??)
+    - Filteren op geloofwaardige kolomwaardes. --> 1994 is de gemiddelde minimale teperatuur 28.
+    
+NOTES
+    aannemingen van model
+    - We gaan er vanuit dat alle wijngaarden buiten staan en dat de weersomstandigheden invloed hebben op het gewas.
+    - april tot september groei van gewassen  --> de rest van het jaar heeft geen invloed op de groei van gewassen.
+
+BETEKENIS
+    dewpoint temperature
+    - Wanneer de lucht wordt afgekoeld tot onder het dauwpunt, is de opgenomen waterdamphoeveelheid groter dan de maximale hoeveelheid 
+      waterdamp. 
+      
